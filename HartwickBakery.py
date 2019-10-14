@@ -13,8 +13,8 @@ def cookie_input():
       return
 
 cookie_input()
-for y in cookies:
-    avgcookies = avgcookies + y
+def average():
+
 
 
 
